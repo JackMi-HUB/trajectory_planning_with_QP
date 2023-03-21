@@ -7,5 +7,7 @@ In this case, a A* path will be generated first in the grid map. And then optimi
 
 
 Reference:
+
 [1]Maneuver_Planning_for_Automatic_Parking_with_Safe_Travel_Corridors_A_Numerical_Optimal_Control_Approach
+
 [2]深蓝学院轨迹规划课程
