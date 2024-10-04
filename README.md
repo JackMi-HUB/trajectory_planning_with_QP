@@ -1,5 +1,5 @@
 # trajectory_planning_with_QP
-This is a project  about trajectory planning completed in ZJUT S.1/6
+This is a record about trajectory planning completed in ZJUT by LiuLihong.
 
 Please run the 'RunMe.m' to execute the project!
 
